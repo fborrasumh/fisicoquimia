@@ -4,6 +4,8 @@ Sistema de aprendizaje de **Propiedades fisico-químicas de alimentos (1536)**, 
 
 **Usar la app:** https://fborrasumh.github.io/fisicoquimia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23884076.svg)](https://doi.org/10.5281/zenodo.23884076)
+
 ## Qué hace
 - Diagnóstico inicial de 7 preguntas (una por resultado de aprendizaje, RA) y ruta adaptativa que muestra **por qué** toca cada actividad.
 - 20 plantillas de problemas con datos distintos en cada variante; **la solución la calcula el código** y los errores típicos se diagnostican recalculando. Ejemplo resuelto la primera vez que se practica una plantilla.
@@ -42,7 +44,7 @@ A partir de la Guía Docente de la asignatura 1536 (Grado en Ciencia y Tecnolog�
 ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573) · Juana Fernández López [0000-0002-4771-8437](https://orcid.org/0000-0002-4771-8437). Luis Noguera Artiaga [0000-0001-9269-1125](https://orcid.org/0000-0001-9269-1125).
 
 ## Cómo citar
-Borrás Rocher, F., Fernández López, J. y Noguera Artiaga, L. (2026). *FisicoquimIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F., Fernández López, J. y Noguera Artiaga, L. (2026). *FisicoquimIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23884076](https://doi.org/10.5281/zenodo.23884076)
 
 ## Licencia
 MIT (software). Véase [LICENSE](LICENSE). Los contenidos pedagógicos y los datos suelen publicarse con CC BY 4.0; si se mantiene MIT para todo, se respeta.
