@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "FisicoquimIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Fernández López"
+    given-names: "Juana"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-4771-8437"
+  - family-names: "Noguera Artiaga"
+    given-names: "Luis"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0001-9269-1125"
+doi: "10.5281/zenodo.23884076"
+version: "1.0.0"
+date-released: "2026-11-02"
+url: "https://fborrasumh.github.io/fisicoquimia/"
+repository-code: "https://github.com/fborrasumh/fisicoquimia"
+license: MIT
